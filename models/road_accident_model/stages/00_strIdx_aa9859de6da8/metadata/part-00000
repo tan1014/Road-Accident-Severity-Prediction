@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1794487591882,"sparkVersion":"3.5.5","uid":"strIdx_aa9859de6da8","paramMap":{"handleInvalid":"keep","outputCol":"Age_band_of_driver_index","inputCol":"Age_band_of_driver"},"defaultParamMap":{"handleInvalid":"error","outputCol":"strIdx_aa9859de6da8__output","stringOrderType":"frequencyDesc"}}

@@ -1,0 +1,18 @@
+
+# IntelliJ / IDE
+.idea/
+.bsp/
+*.iml
+
+# Scala / SBT generated files
+target/
+project/target/
+project/project/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
